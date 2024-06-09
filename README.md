@@ -1,12 +1,12 @@
 # FEM with FEniCSx
-![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![FEniCSx](https://img.shields.io/badge/FEniCSx-0.4.1-blue.svg)](https://fenicsproject.org/)
 
 
 ## Overview
 
-<img src="./u_sol.gif" alt="gif" width="500px" style="text-align: center;">
+<!--<img src="./u_sol.gif" alt="gif" width="500px" style="text-align: center;">-->
 
 This repository contains examples and tutorials for solving various partial differential equations (PDEs) using the FEniCSx library. FEniCSx is a popular open-source computing platform for solving PDEs, and this repository aims to demonstrate its application in finite element methods (FEM).
 
