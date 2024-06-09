@@ -1,6 +1,5 @@
 # FEM with FEniCSx
-
-[![Build Status](https://github.com/clemsadand/fem-fenicsx/actions/workflows/build.yml/badge.svg)](https://github.com/clemsadand/fem-fenicsx/actions/workflows/build.yml)
+![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![FEniCSx](https://img.shields.io/badge/FEniCSx-0.4.1-blue.svg)](https://fenicsproject.org/)
 
